@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Helvetica;
+  text-align: center;
+  color: darkslategray;
+}
+
+.sales {
+  border: .1em solid darkslategray;
+  margin: 1em;
+  padding: 4px;
+  display: inline-block;
+  width: 30%;
+}
+
+.sales:hover {
+  background-color: darkgrey;
+  border: .2em solid darkslategray;
+}
